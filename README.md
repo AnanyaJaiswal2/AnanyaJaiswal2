@@ -29,10 +29,10 @@
 - 🌱 I’m currently a undergrad
 - 🎯 Goal: Become financially independent and help others grow
 - 📚 Learning Webflow, DSA, and UI/UX
-- 💬 Ask me about: Design, Hackathons, Frontend & Motivation!
+- 💬 Ask me about: Design, Hackathons, Web Development & Motivation!
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-profile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ananya-jaiswal02/)
+
